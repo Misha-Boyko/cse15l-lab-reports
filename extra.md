@@ -2,10 +2,13 @@
 This is an **additional** *file*. 
 ## Here is a list
 <br />
+<br />
 *Element1
+<br />
 *Element2 
 <br />
 [Here's a link](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+<br />
 ![Image](Computer.jpeg)
 <br />
 Here is a blockquote
