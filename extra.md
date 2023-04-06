@@ -1,19 +1,25 @@
 # CSE15L Extra File
 This is an **additional** *file*. 
 ## Here is a list
+<br />
 *Element1
 *Element2 
+<br />
 [Here's a link](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 ![Image](Computer.jpeg)
+<br />
 Here is a blockquote
+<br />
 > "Remember that there is no code faster than no code." — Taligent's Guide to Designing Programs
 Here is me listing the letters on my keyboard left to right
+<br />
 1. q
 2. w
 3. e
 4. r
 5. t
 6. y
+7. <br />
 Now to seperate the ideas I'll add a horizontal divider
 ---
 If we wanted to compile a java file, we would use `javac filename`
