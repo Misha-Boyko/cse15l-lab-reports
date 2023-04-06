@@ -4,4 +4,22 @@ This is an **additional** *file*.
 *Element1
 *Element2 
 [Here's a link](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
-![Image](http://url/a.png)
+![Image](Computer.jpeg)
+Here is a blockquote
+> "Remember that there is no code faster than no code." — Taligent's Guide to Designing Programs
+Here is me listing the letters on my keyboard left to right
+1. q
+2. w
+3. e
+4. r
+5. t
+6. y
+Now to seperate the ideas I'll add a horizontal divider
+---
+If we wanted to compile a java file, we would use `javac filename`
+However, to run the file we have to compile it first so all together the commands would be:
+```
+javac filenmae
+java filename
+````
+The first command compiles the file and the second runs it.
