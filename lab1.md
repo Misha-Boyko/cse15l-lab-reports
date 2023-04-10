@@ -8,7 +8,7 @@ and selecting the correct software for the machine we're working on. I work on a
 After completing the instructions on the screen that show up for VScode 
 (like selecting which path to install VScode to and default options) a screen should show up similar to
 this:
-![Image](Screenshot 2023-04-05 172811.png)
+![Image](VScode.png)
 <br />
 ## Next we will attempt to remotely connect
 We need to access the accounts we have access to from our courses [found here](https://sdacs.ucsd.edu/~icc/index.php).
@@ -34,12 +34,12 @@ Thus, I'd type `$ ssh cs15lsp23bx@ieng6.ucsd.edu`. After typing the command you 
 with a question about the connection to which you can enter `yes`. Next, type the password
 into the terminal (it will hide your typing so make sure be precise). Once connected you're
 screen should look similar to mine:
-![Image](Screenshot 2023-04-05 174850.png)
+![Image](SSH.png)
 
 <br />
 ## Finally, let's try a command
 There are many commands to try here such as `cd` `cd ~` `ls -lat` `cat **pathname**` 
 We can type any of these into the terminal (one at a time). For instance, I tried
 `ls` and `cat per15` which is a path that does not exist.
-![Image](Screenshot 2023-04-05 175530.png)
+![Image](Commands.png)
 
