@@ -8,7 +8,7 @@ and selecting the correct software for the machine we're working on. I work on a
 After completing the instructions on the screen that show up for VScode 
 (like selecting which path to install VScode to and default options) a screen should show up similar to
 this:
-![Image](_placeholder_)
+![Image](Screenshot 2023-04-05 172811.png)
 <br />
 ## Next we will attempt to remotely connect
 We need to access the accounts we have access to from our courses [found here](https://sdacs.ucsd.edu/~icc/index.php).
