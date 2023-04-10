@@ -34,7 +34,7 @@ Thus, I'd type `$ ssh cs15lsp23bx@ieng6.ucsd.edu`. After typing the command you 
 with a question about the connection to which you can enter `yes`. Next, type the password
 into the terminal (it will hide your typing so make sure be precise). Once connected you're
 screen should look similar to mine:
-![Image](_placeholder_)
+![Image](Screenshot 2023-04-05 174850.png)
 
 <br />
 ## Finally, let's try a command
