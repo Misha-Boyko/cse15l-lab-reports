@@ -11,11 +11,6 @@ This is an **additional** *file*.
 <br />
 ![Image](Computer.jpeg)
 <br />
-Here is a blockquote
-<br />
-> "Remember that there is no code faster than no code." — Taligent's Guide to Designing Programs
-Here is me listing the letters on my keyboard left to right
-<br />
 1. q
 2. w
 3. e
@@ -32,3 +27,8 @@ javac filenmae
 java filename
 ````
 The first command compiles the file and the second runs it.
+<br />
+Here is a blockquote
+<br />
+> "Remember that there is no code faster than no code." — Taligent's Guide to Designing Programs
+Here is me listing the letters on my keyboard left to right
