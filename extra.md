@@ -2,7 +2,6 @@
 This is an **additional** *file*. 
 ## Here is a list
 <br />
-<br />
 *Element1
 <br />
 *Element2 
