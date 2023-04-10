@@ -40,5 +40,5 @@ screen should look similar to mine:
 ## Finally, let's try a command
 There are many commands to try here such as `cd` `cd ~` `ls -lat` `cat **pathname**` 
 We can type any of these into the terminal (one at a time). For instance, I tried
-`ls` and `cat per15` which is a path that does not exist. ![Image](Commands.png)
-
+`ls` and `cat per15` which is a path that does not exist: 
+![Image](Commands.png)
