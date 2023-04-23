@@ -44,4 +44,6 @@ We can type any of these into the terminal (one at a time). For instance, I trie
 <br />
 ![Image](Commands.png)
 
-The `ls` command lists all of the files in the current directoy.
+The `ls` command lists all of the files in the current directoy. The `cat` command reads a file to terminal and in this case is unable to find a path/file called per15.
+<br />
+I learned that minors errors such as 'perl5' vs. 'per15' can break a program no matter how slight. I wasn't sure about the output of ls as I hadn't opened file explorer to see how the storage is being used. Another command I could've tried was `cd` which changes the current working directory in which we write our commands. I would like to try `cd perl5` and then once in the directory, then `ls` and using whatever is outputted and trying `cat <filename>` from there.
