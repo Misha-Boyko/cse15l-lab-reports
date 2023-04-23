@@ -43,3 +43,5 @@ We can type any of these into the terminal (one at a time). For instance, I trie
 `ls` and `cat per15` which is a path that does not exist: 
 <br />
 ![Image](Commands.png)
+
+The `ls` command lists all of the files in the current directoy.
